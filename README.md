@@ -18,3 +18,5 @@ A parity check error detection technique has been implemented to verify the accu
 
 ## Router Packet Format
 ![image](https://github.com/user-attachments/assets/ecb18017-8976-4acd-b158-5077e1e6d526)
+## FSM
+![image](https://github.com/user-attachments/assets/7b39f95b-3316-4f15-b22c-e2395305d508)
